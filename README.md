@@ -1,4 +1,4 @@
-# <p align="center">Permita-me apresentar-me: sou Alanderson.</p>
+# <p align="center">É um prazer conhecê-lo(a). Meu nome é Alanderson.</p>
 
 <div align="center">
    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" height="24"/>
