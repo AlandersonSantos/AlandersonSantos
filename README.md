@@ -13,5 +13,5 @@
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=600&color=00008B&width=435&lines=Desenvolvedor+Full+Stack;em+evolução+integrando+código;e+inteligência+de+dados." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=600&color=00008B&width=435&lines=Desenvolvedor+Full+Stack+em+evolução" alt="Typing SVG" />
 </p>
