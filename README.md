@@ -1,17 +1,22 @@
 # <p align="center">É um prazer conhecê-lo(a). Meu nome é Alânderson.</p>
 
 <div align="center">
-   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" height="24"/>
-   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" height="24"/>
-   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" height="24"/>
-   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="24"/>
-   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="24"/>
-   <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" height="24"/>
-   <img alt="VS Code" src="https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white" height="24"/>
+   <img alt="ícone-HTML" src="https://img.shields.io/badge/%20-HTML-black?logo=html5" width="79"/>
+   <img alt="ícone-CSS" src="https://img.shields.io/badge/%20-CSS-black?logo=css&logoColor=blue" width="68"/>
+   <img alt="ícone-Javascrip" src="https://img.shields.io/badge/%20-Javascrip-black?logo=javascript" width="105"/>
+   <img alt="ícone-Postgresql" src="https://img.shields.io/badge/%20-postgresql-black?logo=postgresql&logoColor=blue" width="112"/>
+   <img alt="ícone-Prisma" src="https://img.shields.io/badge/%20-prisma-black?logo=prisma&logoColor=blue" width="86"/>
 </div>
 
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=600&color=00008B&width=435&lines=Desenvolvedor+Full+Stack+em+evolução" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Size+Code&pause=550&color=4F4F4F&width=435&lines=Desenvolvedor+Full+Stack+em+evolução" alt="Typing SVG" />
+</p>
+
+<br>
+
+<p>
+
+
 </p>
