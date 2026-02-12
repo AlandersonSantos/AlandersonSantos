@@ -1,7 +1,7 @@
 # <p align="center">É um prazer conhecê-lo(a). Meu nome é Alânderson.</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Size+Code&pause=550&color=4F4F4F&width=435&lines=Desenvolvedor+Full+Stack+em+evolução" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Size+Code&pause=550&color=006400&width=435&lines=Desenvolvedor+Full+Stack+em+evolução" alt="Typing SVG" />
 </p>
 
 <p>
