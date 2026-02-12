@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Size+Code&pause=550&color=006400&width=435&lines=Desenvolvedor+Full+Stack+em+evolução" alt="Typing SVG" />
 </p>
 
-<p>
+<p align="justify">
 Como iniciante na jornada Full Stack, entendo que cada linha de código é uma oportunidade de servir. Acredito que o conhecimento é um presente que só se multiplica quando o dividimos. Por isso, documento meus estudos com o coração aberto, para que meus passos facilitem o caminho de quem vem logo atrás.
 </p>
 
