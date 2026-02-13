@@ -1,4 +1,6 @@
-# <p align="center">É um prazer conhecê-lo(a). Meu nome é Alânderson.</p>
+
+
+# ***<p align="center">É um prazer conhecê-lo(a). Meu nome é Alânderson.</p>***
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Size+Code&pause=550&color=006400&width=435&lines=Desenvolvedor+Full+Stack+em+evolução" alt="Typing SVG" />
@@ -10,7 +12,7 @@ Como iniciante na jornada Full Stack, entendo que cada linha de código é uma o
 
 <br>
 
- ## <p align="center" >🔍Habilidades🖥️</p>
+ ## **<p align="center" >🔍Habilidades🖥️</p>**
 
 <div align="center">
    <img alt="ícone-HTML" src="https://img.shields.io/badge/%20-HTML-black?logo=html5" width="79"/>
