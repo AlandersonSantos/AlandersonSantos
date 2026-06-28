@@ -20,4 +20,6 @@ Como iniciante na jornada Full Stack, entendo que cada linha de código é uma o
    <img alt="ícone-Javascrip" src="https://img.shields.io/badge/%20-Javascrip-black?logo=javascript" width="105"/>
    <img alt="ícone-Postgresql" src="https://img.shields.io/badge/%20-postgresql-black?logo=postgresql&logoColor=blue" width="112"/>
    <img alt="ícone-Prisma" src="https://img.shields.io/badge/%20-prisma-black?logo=prisma&logoColor=blue" width="86"/>
+  ![Static Badge](https://img.shields.io/badge/Linux-brightgreen?style=flat&logo=linux&logoColor=black&logoSize=auto&labelColor=white&color=black&cacheSeconds=3600)
+
 </div>
