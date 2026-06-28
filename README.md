@@ -1,6 +1,6 @@
 
 
-# ***<p align="center">É um prazer conhecê-lo(a). Meu nome é Alânderson. <img src="./assets/gifs/pope-religious.gif" width="40"> </p>***
+# ***<p align="center">É um prazer conhecê-lo(a). Meu nome é Alânderson. <img src="./assets/gifs/pope-religious.gif" width="100px"> </p>***
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=750&lines=%F0%9F%8E%93+Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;%F0%9F%90%A7+Foco+em+Linux+e+Infraestrutura;%F0%9F%8C%90+Estudando+Redes+de+Computadores;%F0%9F%94%90+Construindo+uma+base+em+Ciberseguran%C3%A7a;%F0%9F%93%9A+Documentando+minha+jornada+no+GitHub" />
